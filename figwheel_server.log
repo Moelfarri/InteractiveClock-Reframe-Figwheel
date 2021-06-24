@@ -1,0 +1,207 @@
+Compiling build :dev to "resources/public/js/compiled/reframe.js" from ["src"]...
+Successfully compiled build :dev to "resources/public/js/compiled/reframe.js" in 1.754 seconds.
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  resources\public\js\compiled\out\reframe\core.js
+Compiling build :dev to "resources/public/js/compiled/reframe.js" from ["src"]...
+Failed to compile build :dev from ["src"] in 0.552 seconds.
+----  Could not Analyze  src/reframe/core.cljs  ----
+
+  No such namespace: re-frame.db, could not locate re_frame/db.cljs, re_frame/db.cljc, or JavaScript source providing "re-frame.db" (Please check that namespaces with dashes use underscores in the ClojureScript file name) 
+
+----  Analysis Error : Please see src/reframe/core.cljs  ----
+Compiling build :dev to "resources/public/js/compiled/reframe.js" from ["src"]...
+Failed to compile build :dev from ["src"] in 0.536 seconds.
+----  Could not Analyze  src/reframe/core.cljs  ----
+
+  No such namespace: re-frame.db, could not locate re_frame/db.cljs, re_frame/db.cljc, or JavaScript source providing "re-frame.db" (Please check that namespaces with dashes use underscores in the ClojureScript file name) 
+
+----  Analysis Error : Please see src/reframe/core.cljs  ----
+Compiling build :dev to "resources/public/js/compiled/reframe.js" from ["src"]...
+Failed to compile build :dev from ["src"] in 1.008 seconds.
+----  Could not Analyze  src/reframe/core.cljs  ----
+
+  No such namespace: re-frame.db, could not locate re_frame/db.cljs, re_frame/db.cljc, or JavaScript source providing "re-frame.db" (Please check that namespaces with dashes use underscores in the ClojureScript file name) 
+
+----  Analysis Error : Please see src/reframe/core.cljs  ----
+Compiling build :dev to "resources/public/js/compiled/reframe.js" from ["src"]...
+Failed to compile build :dev from ["src"] in 0.888 seconds.
+----  Could not Analyze  src/reframe/core.cljs  ----
+
+  No such namespace: re-frame.db, could not locate re_frame/db.cljs, re_frame/db.cljc, or JavaScript source providing "re-frame.db" (Please check that namespaces with dashes use underscores in the ClojureScript file name) 
+
+----  Analysis Error : Please see src/reframe/core.cljs  ----
+Compiling build :dev to "resources/public/js/compiled/reframe.js" from ["src"]...
+Failed to compile build :dev from ["src"] in 0.52 seconds.
+----  Could not Analyze  src/reframe/core.cljs  ----
+
+  No such namespace: re-frame.core, could not locate re_frame/core.cljs, re_frame/core.cljc, or JavaScript source providing "re-frame.core" (Please check that namespaces with dashes use underscores in the ClojureScript file name) 
+
+----  Analysis Error : Please see src/reframe/core.cljs  ----
+Compiling build :dev to "resources/public/js/compiled/reframe.js" from ["src"]...
+Failed to compile build :dev from ["src"] in 0.518 seconds.
+----  Could not Analyze  src/reframe/core.cljs  ----
+
+  No such namespace: reagent/re-frame.core, could not locate reagent_SLASH_re_frame/core.cljs, reagent_SLASH_re_frame/core.cljc, or JavaScript source providing "re-frame.core" (Please check that namespaces with dashes use underscores in the ClojureScript file name) 
+
+----  Analysis Error : Please see src/reframe/core.cljs  ----
+Compiling build :dev to "resources/public/js/compiled/reframe.js" from ["src"]...
+Failed to compile build :dev from ["src"] in 0.485 seconds.
+----  Could not Analyze  src/reframe/core.cljs  ----
+
+  No such namespace: re-frame.core, could not locate re_frame/core.cljs, re_frame/core.cljc, or JavaScript source providing "re-frame.core" (Please check that namespaces with dashes use underscores in the ClojureScript file name) 
+
+----  Analysis Error : Please see src/reframe/core.cljs  ----
+Compiling build :dev to "resources/public/js/compiled/reframe.js" from ["src"]...
+Failed to compile build :dev from ["src"] in 0.505 seconds.
+----  Could not Analyze  src/reframe/core.cljs  ----
+
+  No such namespace: re-frame.async.core, could not locate re_frame/async/core.cljs, re_frame/async/core.cljc, or JavaScript source providing "re-frame.async.core" (Please check that namespaces with dashes use underscores in the ClojureScript file name) 
+
+----  Analysis Error : Please see src/reframe/core.cljs  ----
+Compiling build :dev to "resources/public/js/compiled/reframe.js" from ["src"]...
+Failed to compile build :dev from ["src"] in 0.202 seconds.
+----  Could not Analyze  src/reframe/core.cljs   line:1  column:1  ----
+
+  Only :as alias, :refer (names) and :rename {from to} options supported in :require; offending spec: [re-frame "0.12.0"] at line 1 src\reframe\core.cljs
+
+  1  (ns reframe.core
+     ^--- Only :as alias, :refer (names) and :rename {from to} options supported in :require; offending spec: [re-frame "0.12.0"] at line 1 src\reframe\core.cljs
+  2      (:require 
+  3                [reagent.core :as reagent]
+  4                [reagent.dom :as rd]
+
+----  Analysis Error : Please see src/reframe/core.cljs  ----
+Compiling build :dev to "resources/public/js/compiled/reframe.js" from ["src"]...
+Failed to compile build :dev from ["src"] in 1.048 seconds.
+----  Could not Analyze  src/reframe/core.cljs  ----
+
+  No such namespace: re-frame.core, could not locate re_frame/core.cljs, re_frame/core.cljc, or JavaScript source providing "re-frame.core" (Please check that namespaces with dashes use underscores in the ClojureScript file name) 
+
+----  Analysis Error : Please see src/reframe/core.cljs  ----
+Compiling build :dev to "resources/public/js/compiled/reframe.js" from ["src"]...
+Failed to compile build :dev from ["src"] in 0.416 seconds.
+----  Could not Analyze  src/reframe/core.cljs  ----
+
+  No such namespace: re-frame.core, could not locate re_frame/core.cljs, re_frame/core.cljc, or JavaScript source providing "re-frame.core" (Please check that namespaces with dashes use underscores in the ClojureScript file name) 
+
+----  Analysis Error : Please see src/reframe/core.cljs  ----
+Compiling build :dev to "resources/public/js/compiled/reframe.js" from ["src"]...
+Failed to compile build :dev from ["src"] in 0.388 seconds.
+----  Could not Analyze  src/reframe/core.cljs  ----
+
+  No such namespace: re-frame.core, could not locate re_frame/core.cljs, re_frame/core.cljc, or JavaScript source providing "re-frame.core" (Please check that namespaces with dashes use underscores in the ClojureScript file name) 
+
+----  Analysis Error : Please see src/reframe/core.cljs  ----
+Compiling build :dev to "resources/public/js/compiled/reframe.js" from ["src"]...
+Failed to compile build :dev from ["src"] in 0.508 seconds.
+----  Could not Analyze  src/reframe/core.cljs  ----
+
+  No such namespace: re-frame.core, could not locate re_frame/core.cljs, re_frame/core.cljc, or JavaScript source providing "re-frame.core" (Please check that namespaces with dashes use underscores in the ClojureScript file name) 
+
+----  Analysis Error : Please see src/reframe/core.cljs  ----
+Compiling build :dev to "resources/public/js/compiled/reframe.js" from ["src"]...
+Failed to compile build :dev from ["src"] in 0.384 seconds.
+----  Could not Analyze  src/reframe/core.cljs  ----
+
+  No such namespace: re-frame.core, could not locate re_frame/core.cljs, re_frame/core.cljc, or JavaScript source providing "re-frame.core" (Please check that namespaces with dashes use underscores in the ClojureScript file name) 
+
+----  Analysis Error : Please see src/reframe/core.cljs  ----
+Compiling build :dev to "resources/public/js/compiled/reframe.js" from ["src"]...
+Failed to compile build :dev from ["src"] in 0.449 seconds.
+----  Could not Analyze  src/reframe/core.cljs  ----
+
+  No such namespace: re-frame.core, could not locate re_frame/core.cljs, re_frame/core.cljc, or JavaScript source providing "re-frame.core" (Please check that namespaces with dashes use underscores in the ClojureScript file name) 
+
+----  Analysis Error : Please see src/reframe/core.cljs  ----
+Compiling build :dev to "resources/public/js/compiled/reframe.js" from ["src"]...
+Failed to compile build :dev from ["src"] in 0.424 seconds.
+----  Could not Analyze  src/reframe/core.cljs  ----
+
+  No such namespace: re-frame.db, could not locate re_frame/db.cljs, re_frame/db.cljc, or JavaScript source providing "re-frame.db" (Please check that namespaces with dashes use underscores in the ClojureScript file name) 
+
+----  Analysis Error : Please see src/reframe/core.cljs  ----
+Compiling build :dev to "resources/public/js/compiled/reframe.js" from ["src"]...
+Successfully compiled build :dev to "resources/public/js/compiled/reframe.js" in 1.593 seconds.
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  resources\public\js\compiled\out\reframe\core.js
+Compiling build :dev to "resources/public/js/compiled/reframe.js" from ["src"]...
+Successfully compiled build :dev to "resources/public/js/compiled/reframe.js" in 1.615 seconds.
+notifying browser that file changed:  resources\public\js\compiled\out\reframe\core.js
+Compiling build :dev to "resources/public/js/compiled/reframe.js" from ["src"]...
+----  Compiler Warning on   src/reframe/core.cljs   line:94  column:3  ----
+
+  reagent.core/render is deprecated
+
+  91  (defn ^:export run
+  92    []
+  93    (rf/dispatch-sync [:initialize])     ;; puts a value into application state
+  94    (reagent/render [ui]              ;; mount the application's ui into '<div id="app" />'
+        ^--- reagent.core/render is deprecated
+  95                    js/klipse-container))
+  96  
+  97  
+  98  (run)
+  99  #_(swap! db/app-db (fn [db]
+
+----  Compiler Warning : Please see src/reframe/core.cljs  ----
+Successfully compiled build :dev to "resources/public/js/compiled/reframe.js" in 1.516 seconds.
+notifying browser that file changed:  resources\public\js\compiled\out\reframe\core.js
+Compiling build :dev to "resources/public/js/compiled/reframe.js" from ["src"]...
+Successfully compiled build :dev to "resources/public/js/compiled/reframe.js" in 1.388 seconds.
+notifying browser that file changed:  resources\public\js\compiled\out\reframe\core.js
+Compiling build :dev to "resources/public/js/compiled/reframe.js" from ["src"]...
+Successfully compiled build :dev to "resources/public/js/compiled/reframe.js" in 1.42 seconds.
+notifying browser that file changed:  resources\public\js\compiled\out\reframe\core.js
+Compiling build :dev to "resources/public/js/compiled/reframe.js" from ["src"]...
+Successfully compiled build :dev to "resources/public/js/compiled/reframe.js" in 1.437 seconds.
+notifying browser that file changed:  resources\public\js\compiled\out\reframe\core.js
+Compiling build :dev to "resources/public/js/compiled/reframe.js" from ["src"]...
+Successfully compiled build :dev to "resources/public/js/compiled/reframe.js" in 1.279 seconds.
+notifying browser that file changed:  resources\public\js\compiled\out\reframe\core.js
+Compiling build :dev to "resources/public/js/compiled/reframe.js" from ["src"]...
+Successfully compiled build :dev to "resources/public/js/compiled/reframe.js" in 1.506 seconds.
+notifying browser that file changed:  resources\public\js\compiled\out\reframe\core.js
+Compiling build :dev to "resources/public/js/compiled/reframe.js" from ["src"]...
+Successfully compiled build :dev to "resources/public/js/compiled/reframe.js" in 1.232 seconds.
+notifying browser that file changed:  resources\public\js\compiled\out\reframe\core.js
+Compiling build :dev to "resources/public/js/compiled/reframe.js" from ["src"]...
+Successfully compiled build :dev to "resources/public/js/compiled/reframe.js" in 1.336 seconds.
+notifying browser that file changed:  resources\public\js\compiled\out\reframe\core.js
+Compiling build :dev to "resources/public/js/compiled/reframe.js" from ["src"]...
+Successfully compiled build :dev to "resources/public/js/compiled/reframe.js" in 1.564 seconds.
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  resources\public\js\compiled\out\reframe\core.js
+Compiling build :dev to "resources/public/js/compiled/reframe.js" from ["src"]...
+Successfully compiled build :dev to "resources/public/js/compiled/reframe.js" in 1.308 seconds.
+notifying browser that file changed:  resources\public\js\compiled\out\reframe\core.js
+Compiling build :dev to "resources/public/js/compiled/reframe.js" from ["src"]...
+Failed to compile build :dev from ["src"] in 0.64 seconds.
+----  Could not Read  src/reframe/core.cljs   line:106 ----
+
+  C:\FrontEndTestProjects\reframe\src\reframe\core.cljs [line 106, col 1] Unexpected EOF while reading item 8 of list, starting at line 86 and column 1.
+
+----  Reader Error : Please see src/reframe/core.cljs  ----
+Compiling build :dev to "resources/public/js/compiled/reframe.js" from ["src"]...
+Successfully compiled build :dev to "resources/public/js/compiled/reframe.js" in 1.4 seconds.
+notifying browser that file changed:  resources\public\js\compiled\out\reframe\core.js
+Compiling build :dev to "resources/public/js/compiled/reframe.js" from ["src"]...
+Successfully compiled build :dev to "resources/public/js/compiled/reframe.js" in 1.42 seconds.
+notifying browser that file changed:  resources\public\js\compiled\out\reframe\core.js
+Compiling build :dev to "resources/public/js/compiled/reframe.js" from ["src"]...
+Successfully compiled build :dev to "resources/public/js/compiled/reframe.js" in 1.269 seconds.
+notifying browser that file changed:  resources\public\js\compiled\out\reframe\core.js
+Compiling build :dev to "resources/public/js/compiled/reframe.js" from ["src"]...
+Successfully compiled build :dev to "resources/public/js/compiled/reframe.js" in 1.313 seconds.
+notifying browser that file changed:  resources\public\js\compiled\out\reframe\core.js
+Compiling build :dev to "resources/public/js/compiled/reframe.js" from ["src"]...
+Successfully compiled build :dev to "resources/public/js/compiled/reframe.js" in 1.359 seconds.
+notifying browser that file changed:  resources\public\js\compiled\out\reframe\core.js
+Compiling build :dev to "resources/public/js/compiled/reframe.js" from ["src"]...
+Successfully compiled build :dev to "resources/public/js/compiled/reframe.js" in 4.763 seconds.
+notifying browser that file changed:  resources\public\js\compiled\out\reframe\core.js
+Compiling build :dev to "resources/public/js/compiled/reframe.js" from ["src"]...
+Successfully compiled build :dev to "resources/public/js/compiled/reframe.js" in 1.254 seconds.
+notifying browser that file changed:  resources\public\js\compiled\out\reframe\core.js
